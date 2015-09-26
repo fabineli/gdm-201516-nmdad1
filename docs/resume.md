@@ -40,4 +40,4 @@ Contactinformatie
 * Link GitHub Account: <https://github.com/fabineli>
 * Link Bitbucket Account: <https://bitbucket.org/fabineli/>
 * Link gdm-201516-nmdad1 repository: <https://github.com/fabineli/gdm-201516-nmdad1>
-* Link resume.md Markdown document: <https://github.com/gdm-201516-mmp2/nmdad1/blob/master/docs/inleiding.md>
+* Link resume.md Markdown document: <https://github.com/fabineli/gdm-201516-nmdad1/blob/master/docs/resume.md>
